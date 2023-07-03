@@ -144,6 +144,7 @@
     <Compile Include="Repositores\CustomerRepository.cs" />
     <Compile Include="Repositores\ItemRepository.cs" />
     <Compile Include="Repositores\PaymentTypeRepository.cs" />
+    <Compile Include="ViewModel\Class1.cs" />
     <Compile Include="ViewModel\CustomerViewModel.cs" />
     <Compile Include="ViewModel\ItemViewModel.cs" />
     <Compile Include="ViewModel\PaymentTypeViewModel.cs" />
